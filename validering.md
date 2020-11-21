@@ -33,3 +33,7 @@
 * Ändrade färgen och tjockleken på länkar så att det är lättare att läsa dem.
 * Validateade och fick 1 error.
 * Fixade enhet för font-size.
+* Lade till en ny class "navbaritem" och tog bort punkterna framför alla items i listan. Gjorde också så att de hamnade bredvid varandra och ändrade typsnittet och ändrade färgen.
+* Lade till padding till navbar.
+# Övrigt
+* Minskade bildstorleken till under 1 MB så att sidan laddar snabbare.
