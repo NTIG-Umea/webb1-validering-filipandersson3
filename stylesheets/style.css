@@ -2,7 +2,7 @@ body {
   background-image: url('../img/IMG_20200727_113945.jpg');
   background-size: cover;
   background-color: #666666;
-  font-size: 1;
+  font-size: 100%;
   font-family: 'Montserrat, sans-serif';
   font-weight: 400;
 }
