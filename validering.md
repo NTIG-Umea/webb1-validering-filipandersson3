@@ -19,3 +19,17 @@
 * Alla bilder måste ha en alt ifall bilden inte visas.
 * Width på bilder ska bara innehålla siffror utan enhet.
 * Tog bort linebreak mitt i en länk (mitt fel).
+* Fixade så att linjen under "Geologiska förutsättningar" inte går genom bilden. Gjorde detta i HTML så att jag inte måste göra en ny class i CSS för att det var en så liten förändring som bara behövdes för detta elementet.
+* Ändrade längden på linjen till px för att det ska fungera för olika skärmar.
+# CSS
+* Stängde parantes vid font-family. Samma anledning som för HTML.
+* Gjorde länken till bakgrundsbilden relativ så att den laddar in rätt.
+* Fixade typo för padding-top.
+* Fixat så att > är åt rätt håll.
+* Lade till enhet för margin-bottom.
+* Tog bort .footer för att den användes inte.
+* Förbättrade läsbarheten genom att göra bakgrunden mindre genomskinlig.
+* Tog bort punkten framför h2 för att det inte är en class.
+* Ändrade färgen och tjockleken på länkar så att det är lättare att läsa dem.
+* Validateade och fick 1 error.
+* Fixade enhet för font-size.
