@@ -23,6 +23,11 @@ p {
   font-family: 'Montserrat', sans-serif;
 }
 
+a {
+  color: #ffffff;
+  font-weight: 600;
+}
+
 h1 {
   font-size: 3rem;
 }
