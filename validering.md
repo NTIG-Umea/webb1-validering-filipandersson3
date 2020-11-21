@@ -21,6 +21,7 @@
 * Tog bort linebreak mitt i en länk (mitt fel).
 * Fixade så att linjen under "Geologiska förutsättningar" inte går genom bilden. Gjorde detta i HTML så att jag inte måste göra en ny class i CSS för att det var en så liten förändring som bara behövdes för detta elementet.
 * Ändrade längden på linjen till px för att det ska fungera för olika skärmar.
+* Ändrat stor bokstav till liten. Länken fungerar annars inte på Pages.
 # CSS
 * Stängde parantes vid font-family. Samma anledning som för HTML.
 * Gjorde länken till bakgrundsbilden relativ så att den laddar in rätt.
