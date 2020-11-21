@@ -22,6 +22,7 @@
 * Fixade så att linjen under "Geologiska förutsättningar" inte går genom bilden. Gjorde detta i HTML så att jag inte måste göra en ny class i CSS för att det var en så liten förändring som bara behövdes för detta elementet.
 * Ändrade längden på linjen till px för att det ska fungera för olika skärmar.
 * Ändrat stor bokstav till liten. Länken fungerar annars inte på Pages.
+* Wave gav en varning om att det borde vara en h2 istället för en h3 för Läge, så fixade det.
 # CSS
 * Stängde parantes vid font-family. Samma anledning som för HTML.
 * Gjorde länken till bakgrundsbilden relativ så att den laddar in rätt.
@@ -38,3 +39,4 @@
 * Lade till padding till navbar.
 # Övrigt
 * Minskade bildstorleken till under 1 MB så att sidan laddar snabbare.
+* Mobilversionen funkar sådär, men som jag fattade det så behövdes det inte.
