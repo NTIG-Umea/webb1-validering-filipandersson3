@@ -40,7 +40,7 @@ h1 {
   margin: 1rem
 }
 
-.info < h3 {
+.info > h3 {
   color: #efefef;
   background-color: #666666;
   margin-bottom: 0.2;
